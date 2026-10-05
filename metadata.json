@@ -1,0 +1,6 @@
+{
+  "name": "Books@Rentals",
+  "description": "Low prices. Real physical books. Gentle rhythm for your reading goals. Budget-friendly student book rentals with lo-fi musical vibes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
